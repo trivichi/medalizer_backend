@@ -1,0 +1,77 @@
+{
+  "hemoglobin": {
+    "description": "Hemoglobin is a protein in red blood cells that carries oxygen throughout the body.",
+    "low_causes": [
+      "Anemia",
+      "Blood loss",
+      "Nutritional deficiency"
+    ],
+    "high_causes": [
+      "Dehydration",
+      "Lung disease",
+      "Living at high altitude"
+    ],
+    "recommendations": {
+      "low": [
+        "Increase iron-rich foods",
+        "Consider iron supplements",
+        "Consult a doctor"
+      ],
+      "high": [
+        "Stay hydrated",
+        "Avoid smoking",
+        "Consult a doctor"
+      ]
+    }
+  },
+  "wbc": {
+    "description": "White blood cells help fight infections and are part of the immune system.",
+    "low_causes": [
+      "Viral infections",
+      "Autoimmune disorders",
+      "Bone marrow problems"
+    ],
+    "high_causes": [
+      "Infection",
+      "Inflammation",
+      "Leukemia"
+    ],
+    "recommendations": {
+      "low": [
+        "Avoid infections",
+        "Maintain good hygiene",
+        "Consult a doctor"
+      ],
+      "high": [
+        "Monitor for infection",
+        "Consult a doctor immediately"
+      ]
+    }
+  },
+  "glucose": {
+    "description": "Blood glucose levels indicate how much sugar is in your blood.",
+    "low_causes": [
+      "Excessive insulin",
+      "Skipped meals",
+      "Excessive exercise"
+    ],
+    "high_causes": [
+      "Diabetes",
+      "Insulin resistance",
+      "Stress"
+    ],
+    "recommendations": {
+      "low": [
+        "Eat regular meals",
+        "Monitor blood sugar",
+        "Consult a doctor"
+      ],
+      "high": [
+        "Reduce sugar intake",
+        "Exercise regularly",
+        "Monitor glucose",
+        "Consult a doctor"
+      ]
+    }
+  }
+}
