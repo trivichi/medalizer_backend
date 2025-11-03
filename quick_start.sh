@@ -51,7 +51,7 @@ echo "📁 Creating data directories..."
 mkdir -p data/uploads
 mkdir -p data/chroma_db
 mkdir -p data/medical_knowledge
-echo "   ✅ Directories created"
+echo "   ✅ Directories created" 
 echo ""
 
 # Create .env file if it doesn't exist
